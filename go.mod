@@ -1,4 +1,4 @@
-module github.com/xiliangMa/go-dockerclient
+module github.com/ecispace/go-dockerclient
 
 go 1.13
 
